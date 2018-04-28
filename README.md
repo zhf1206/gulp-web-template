@@ -1,8 +1,6 @@
 # gulp-web-template
 ## This is use gulp+web template project
 
-### Remark
-
 ### 安装依赖包
 ```
 npm run install
